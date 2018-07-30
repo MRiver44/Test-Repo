@@ -1,0 +1,958 @@
+<?xml version="1.0"?>
+<DataInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>8f034cc8-ebab-4fae-bb3e-2117513be4bd</ID>
+  <Items>
+    <DataItem>
+      <Address>256</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>257</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>258</Address>
+      <Value>1550</Value>
+    </DataItem>
+    <DataItem>
+      <Address>260</Address>
+      <Value>1</Value>
+    </DataItem>
+    <DataItem>
+      <Address>261</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>262</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>263</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>264</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>265</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>266</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>267</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>268</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>269</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>270</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>271</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>272</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>273</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>274</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>275</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>276</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>277</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>278</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>279</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>280</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>281</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>282</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>283</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>284</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>285</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>286</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>287</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>288</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>289</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>290</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>291</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>292</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>293</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>294</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>295</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>296</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>297</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>298</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>299</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>300</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>301</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>302</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>303</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>304</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>305</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>306</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>307</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>308</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>309</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>310</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>311</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>312</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>313</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>314</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>315</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>316</Address>
+      <Value>255</Value>
+    </DataItem>
+    <DataItem>
+      <Address>317</Address>
+      <Value>40</Value>
+    </DataItem>
+    <DataItem>
+      <Address>318</Address>
+      <Value>7</Value>
+    </DataItem>
+    <DataItem>
+      <Address>319</Address>
+      <Value>70</Value>
+    </DataItem>
+    <DataItem>
+      <Address>320</Address>
+      <Value>8</Value>
+    </DataItem>
+    <DataItem>
+      <Address>321</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>322</Address>
+      <Value>100</Value>
+    </DataItem>
+    <DataItem>
+      <Address>324</Address>
+      <Value>511</Value>
+    </DataItem>
+    <DataItem>
+      <Address>326</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>327</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>328</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>329</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>330</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>331</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>332</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>333</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>334</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>335</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>336</Address>
+      <Value>216</Value>
+    </DataItem>
+    <DataItem>
+      <Address>337</Address>
+      <Value>72</Value>
+    </DataItem>
+    <DataItem>
+      <Address>338</Address>
+      <Value>91</Value>
+    </DataItem>
+    <DataItem>
+      <Address>339</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>340</Address>
+      <Value>177</Value>
+    </DataItem>
+    <DataItem>
+      <Address>341</Address>
+      <Value>211</Value>
+    </DataItem>
+    <DataItem>
+      <Address>342</Address>
+      <Value>147</Value>
+    </DataItem>
+    <DataItem>
+      <Address>343</Address>
+      <Value>224</Value>
+    </DataItem>
+    <DataItem>
+      <Address>344</Address>
+      <Value>255</Value>
+    </DataItem>
+    <DataItem>
+      <Address>345</Address>
+      <Value>185</Value>
+    </DataItem>
+    <DataItem>
+      <Address>346</Address>
+      <Value>9</Value>
+    </DataItem>
+    <DataItem>
+      <Address>347</Address>
+      <Value>12</Value>
+    </DataItem>
+    <DataItem>
+      <Address>348</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>349</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>350</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>351</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>352</Address>
+      <Value>300</Value>
+    </DataItem>
+    <DataItem>
+      <Address>354</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>355</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>356</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>357</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>358</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>359</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>360</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>361</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>362</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>363</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>364</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>365</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>366</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>367</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>368</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>369</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>370</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>371</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>372</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>373</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>374</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>375</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>376</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>377</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>378</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>379</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>380</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>381</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>382</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>383</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>384</Address>
+      <Value>2</Value>
+    </DataItem>
+    <DataItem>
+      <Address>386</Address>
+      <Value>4</Value>
+    </DataItem>
+    <DataItem>
+      <Address>388</Address>
+      <Value>9</Value>
+    </DataItem>
+    <DataItem>
+      <Address>390</Address>
+      <Value>1</Value>
+    </DataItem>
+    <DataItem>
+      <Address>391</Address>
+      <Value>2</Value>
+    </DataItem>
+    <DataItem>
+      <Address>392</Address>
+      <Value>1</Value>
+    </DataItem>
+    <DataItem>
+      <Address>393</Address>
+      <Value>2</Value>
+    </DataItem>
+    <DataItem>
+      <Address>394</Address>
+      <Value>173</Value>
+    </DataItem>
+    <DataItem>
+      <Address>395</Address>
+      <Value>100</Value>
+    </DataItem>
+    <DataItem>
+      <Address>396</Address>
+      <Value>179</Value>
+    </DataItem>
+    <DataItem>
+      <Address>397</Address>
+      <Value>122</Value>
+    </DataItem>
+    <DataItem>
+      <Address>398</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>399</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>512</Address>
+      <Value>1550</Value>
+    </DataItem>
+    <DataItem>
+      <Address>514</Address>
+      <Value>1</Value>
+    </DataItem>
+    <DataItem>
+      <Address>515</Address>
+      <Value>90</Value>
+    </DataItem>
+    <DataItem>
+      <Address>517</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>518</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>520</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>521</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>523</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>524</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>526</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>527</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>529</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>530</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>532</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>533</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>535</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>536</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>538</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>539</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>541</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>542</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>544</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>545</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>547</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>548</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>550</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>551</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>553</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>554</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>556</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>557</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>559</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>560</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>562</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>563</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>565</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>566</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>568</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>569</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>571</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>572</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>574</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>575</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>577</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>578</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>580</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>581</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>583</Address>
+      <Value>0</Value>
+    </DataItem>
+    <DataItem>
+      <Address>584</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>585</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>586</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>587</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>588</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>589</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>590</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>591</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>592</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>593</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>594</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>595</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>596</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>597</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>598</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>599</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>600</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>601</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>602</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>603</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>604</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>605</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>606</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>607</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>608</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>609</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>610</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>611</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>612</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>613</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>614</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>615</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>616</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>617</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>618</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>619</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>620</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>621</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>622</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>623</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>624</Address>
+      <Value>2</Value>
+    </DataItem>
+    <DataItem>
+      <Address>626</Address>
+      <Value>4</Value>
+    </DataItem>
+    <DataItem>
+      <Address>628</Address>
+      <Value>8</Value>
+    </DataItem>
+    <DataItem>
+      <Address>630</Address>
+      <Value>10</Value>
+    </DataItem>
+    <DataItem>
+      <Address>631</Address>
+      <Value>2</Value>
+    </DataItem>
+    <DataItem>
+      <Address>632</Address>
+      <Value>1</Value>
+    </DataItem>
+    <DataItem>
+      <Address>633</Address>
+      <Value>2</Value>
+    </DataItem>
+    <DataItem>
+      <Address>634</Address>
+      <Value>147</Value>
+    </DataItem>
+    <DataItem>
+      <Address>635</Address>
+      <Value>160</Value>
+    </DataItem>
+    <DataItem>
+      <Address>636</Address>
+      <Value>179</Value>
+    </DataItem>
+    <DataItem>
+      <Address>637</Address>
+      <Value>122</Value>
+    </DataItem>
+    <DataItem>
+      <Address>638</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+    <DataItem>
+      <Address>639</Address>
+      <Value xsi:nil="true" />
+    </DataItem>
+  </Items>
+</DataInfo>
